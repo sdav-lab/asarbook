@@ -123,6 +123,7 @@ whats-next-1
 data-structures
 chapter-overview-2
 what-is-a-data-frame
+why-data-frames
 creating-data-frames
 method-1-from-vectors
 method-2-create-directly
@@ -228,6 +229,7 @@ the-hypothesis-testing-process
 understanding-p-values
 significance-levels
 types-of-errors
+statistical-power
 example-understanding-hypotheses
 independent-samples-t-test
 when-to-use-it
@@ -329,6 +331,7 @@ step-3-add-a-geom-layer
 step-4-customize
 aesthetic-mappings
 mapping-vs.-setting
+when-to-map-vs.-when-to-set-decision-guide
 multiple-aesthetic-mappings
 essential-geoms
 scatterplots-geom_point
@@ -471,6 +474,7 @@ introduction
 the-narrative-arc
 story-structure
 start-with-the-question
+understanding-visual-hierarchy
 guide-the-viewers-eye
 effective-annotations
 text-annotations
@@ -524,6 +528,7 @@ simple-linear-regression
 creating-sample-data
 visualizing-the-relationship
 building-the-model
+understanding-residuals
 interpreting-the-output-1
 making-predictions
 visualizing-the-regression-line
@@ -532,6 +537,7 @@ building-a-multiple-regression-model
 comparing-models
 interpreting-multiple-regression-coefficients
 model-diagnostics
+why-model-diagnostics-matter
 regression-assumptions
 diagnostic-plots
 residual-analysis
@@ -623,6 +629,7 @@ learning-objectives-3
 introduction-3
 sport-analytics-applications
 classification-vs.-regression
+the-overfitting-problem
 the-predictive-analytics-workflow
 traintest-split
 why-split-data
@@ -634,6 +641,7 @@ making-predictions-2
 model-evaluation-metrics
 confusion-matrix
 classification-metrics
+choosing-the-right-metric
 roc-curve-and-auc
 decision-trees
 feature-importance
